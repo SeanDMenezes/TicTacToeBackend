@@ -1,0 +1,24 @@
+{
+  "name": "multiplayer-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "dev:server": "nodemon server.js"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Sean Menezes",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "json-server": "^0.16.3",
+    "mongoose": "^5.12.4",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.7",
+    "socket.io": "^4.0.1"
+  }
+}
