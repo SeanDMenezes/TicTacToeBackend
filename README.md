@@ -3,4 +3,4 @@ Backend for the multiplayer tic-tac-toe web game found here: https://tic-tac-toe
 
 To run locally, set the necessary environment variables and run the command `npm run dev:server`
 
-Written using Node.js, MongoDB, and deployed with Heroku.
+Written using Node.js, MongoDB, Socket.IO and deployed with Heroku.
