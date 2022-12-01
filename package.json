@@ -1,7 +1,7 @@
 {
   "name": "multiplayer-api",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "dev:server": "nodemon index.js"
   },
